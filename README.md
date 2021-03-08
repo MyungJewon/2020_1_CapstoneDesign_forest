@@ -1,1 +1,1 @@
-# 2020_1_CapstoneDesign_forest
+# VR장비와 외부자극을 사용한 산림치유
