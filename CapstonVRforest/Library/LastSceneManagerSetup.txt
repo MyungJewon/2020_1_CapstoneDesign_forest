@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Eucalyptus-Forest/Demos/Terror-Example/Terror-Example.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

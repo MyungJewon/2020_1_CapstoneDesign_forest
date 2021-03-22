@@ -1,0 +1,252 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.868; Version 2009; 64bit' Language: 'ko' Physical Memory: 15788 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/CapstonVRforest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64854
+Successfully changed project path to: C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/CapstonVRforest
+C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/CapstonVRforest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/CapstonVRforest/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001690 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.591 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1577 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2014.
+Total: 2.511600 ms (FindLiveObjects: 0.319000 ms CreateObjectMapping: 0.079400 ms MarkObjects: 2.006100 ms  DeleteObjects: 0.104800 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.ads/Editor/UnityEditor.Advertisements.dll
+  artifactKey: Guid(a342381d77833427fa10621e38fbae10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ads/Editor/UnityEditor.Advertisements.dll using Guid(a342381d77833427fa10621e38fbae10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27347dcd9d0a51f269ebe51e96494965') in 0.029355 seconds
+  Import took 0.032806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.084637 seconds.
+  path: Packages/com.unity.ads/package.json
+  artifactKey: Guid(dced8f6ea9f964e8e8e61574ea889d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ads/package.json using Guid(dced8f6ea9f964e8e8e61574ea889d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0476b38a48a4984b780b606b280c1f') in 0.018772 seconds
+  Import took 0.021448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.222743 seconds.
+  path: Assets/Eucalyptus-Forest
+  artifactKey: Guid(6a1339cae5f1b3d498b3a3cc1b28dd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest using Guid(6a1339cae5f1b3d498b3a3cc1b28dd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028e85013705d60b17a030d41e66c9b3') in 0.007526 seconds
+  Import took 0.009874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.095256 seconds.
+  path: Assets/Eucalyptus-Forest/Demos
+  artifactKey: Guid(1dd7fbf3126d9f642a9aa4cda897f3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos using Guid(1dd7fbf3126d9f642a9aa4cda897f3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e5c588d4db4188e171b8cdc0712264') in 0.007513 seconds
+  Import took 0.009827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.745741 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Terror-Example
+  artifactKey: Guid(b41f4f6346d3eb24887f05f6c7b0c91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Terror-Example using Guid(b41f4f6346d3eb24887f05f6c7b0c91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3b166702cab31b28099fbf76fee2bd') in 0.009625 seconds
+  Import took 0.011924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.827842 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Rocks-and-Cliffs
+  artifactKey: Guid(79260505275fbe74db747ab14f6e7530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Rocks-and-Cliffs using Guid(79260505275fbe74db747ab14f6e7530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e313c6263044874121e760d87a093f7') in 0.007241 seconds
+  Import took 0.009689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.558784 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Cinematic-Scene
+  artifactKey: Guid(89b3658fcc2fe6f4db90b7eb4192fce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Cinematic-Scene using Guid(89b3658fcc2fe6f4db90b7eb4192fce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3137277a60f855278512dc9c7f8a4ea9') in 0.007023 seconds
+  Import took 0.009882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.651845 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Cinematic-Scene/Cinematic-Scene.unity
+  artifactKey: Guid(9d3cec5b2c2c67e47912a4a8fb21d641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Cinematic-Scene/Cinematic-Scene.unity using Guid(9d3cec5b2c2c67e47912a4a8fb21d641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf74e6c8c3eeb6906e227e60a17dbbf8') in 0.007820 seconds
+  Import took 0.010254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.903667 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Prefabs-Viewer
+  artifactKey: Guid(5b15b5c52284f8e44934405e5d475af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Prefabs-Viewer using Guid(5b15b5c52284f8e44934405e5d475af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227448df942a9b163bbefc1e368d78b5') in 0.008652 seconds
+  Import took 0.011238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.924998 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Prefabs-Viewer/Prefabs-Viewer.unity
+  artifactKey: Guid(018ca74957a96804e8a3c56fed2c8304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Prefabs-Viewer/Prefabs-Viewer.unity using Guid(018ca74957a96804e8a3c56fed2c8304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12144e01f4b21f0a42957810639912fd') in 0.008917 seconds
+  Import took 0.011620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.711610 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Rocks-and-Cliffs/Rocks-and-Cliffs-Demo.unity
+  artifactKey: Guid(8e87cd9a468ee4b47a52cada19638978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Rocks-and-Cliffs/Rocks-and-Cliffs-Demo.unity using Guid(8e87cd9a468ee4b47a52cada19638978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952955aae2d0dddf57c0a9d99af640ae') in 0.007783 seconds
+  Import took 0.010358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.457612 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Sample-Scene
+  artifactKey: Guid(84c74492adfa48644863bcce7fe7b17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Sample-Scene using Guid(84c74492adfa48644863bcce7fe7b17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cc7c1465dd14d39595f8e970e359f5') in 0.007198 seconds
+  Import took 0.009909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001077 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Sample-Scene
+  artifactKey: Guid(84c74492adfa48644863bcce7fe7b17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Sample-Scene using Guid(84c74492adfa48644863bcce7fe7b17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cc7c1465dd14d39595f8e970e359f5') in 0.003421 seconds
+  Import took 0.005780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.605185 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Sample-Scene/Sample-Scene.unity
+  artifactKey: Guid(cfb141cf15f652f47b17d0c3c1c1c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Sample-Scene/Sample-Scene.unity using Guid(cfb141cf15f652f47b17d0c3c1c1c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b91067644a446aadc9d3823d21cdc7') in 0.007681 seconds
+  Import took 0.010344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Sample-Scene/Sample-Scene.unity
+  artifactKey: Guid(cfb141cf15f652f47b17d0c3c1c1c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Sample-Scene/Sample-Scene.unity using Guid(cfb141cf15f652f47b17d0c3c1c1c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b91067644a446aadc9d3823d21cdc7') in 0.003675 seconds
+  Import took 0.006536 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.911 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1535 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 86.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2018.
+Total: 1.961400 ms (FindLiveObjects: 0.296900 ms CreateObjectMapping: 0.096700 ms MarkObjects: 1.499000 ms  DeleteObjects: 0.067000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.138072 seconds.
+  path: Assets/Eucalyptus-Forest/Demos/Terror-Example/Terror-Example.unity
+  artifactKey: Guid(3f02f9cc77147b34193c229f971f5656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Demos/Terror-Example/Terror-Example.unity using Guid(3f02f9cc77147b34193c229f971f5656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e28cf69a851117179e8dc183935ce79') in 0.019668 seconds
+  Import took 0.022327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.695879 seconds.
+  path: Assets/Eucalyptus-Forest/Assets/Meshes/Eucaliptus/Trees/Eucaliptus-3-A_meshes/Eucaliptus-3-A_LOD0.mesh
+  artifactKey: Guid(e82e9e1ecdb4d36468be224ee2b828fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Assets/Meshes/Eucaliptus/Trees/Eucaliptus-3-A_meshes/Eucaliptus-3-A_LOD0.mesh using Guid(e82e9e1ecdb4d36468be224ee2b828fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02640414cfdd3ee8c04cbdfd119431c5') in 0.286195 seconds
+  Import took 0.289565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.720326 seconds.
+  path: Assets/Eucalyptus-Forest/Assets/Meshes/Eucaliptus/Trees/Eucaliptus-3-A_meshes/Eucaliptus-3-A_LOD1.mesh
+  artifactKey: Guid(6b2e6488fb47c264ca01ffa8c34de805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Assets/Meshes/Eucaliptus/Trees/Eucaliptus-3-A_meshes/Eucaliptus-3-A_LOD1.mesh using Guid(6b2e6488fb47c264ca01ffa8c34de805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12da95aa577bca661838b8863c23593d') in 0.030031 seconds
+  Import took 0.032769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.841173 seconds.
+  path: Assets/Eucalyptus-Forest/Assets/Meshes/Eucaliptus/Trees/Eucaliptus-3-A_meshes/Eucaliptus-3-A_LOD2.mesh
+  artifactKey: Guid(83b87a6bc851c9846b2d04bc680308a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eucalyptus-Forest/Assets/Meshes/Eucaliptus/Trees/Eucaliptus-3-A_meshes/Eucaliptus-3-A_LOD2.mesh using Guid(83b87a6bc851c9846b2d04bc680308a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f683ff425a450037a4b81186afc85c93') in 0.022563 seconds
+  Import took 0.025169 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
