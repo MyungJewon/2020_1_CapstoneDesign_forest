@@ -72,8 +72,14 @@
     <None Include="Assets\Eucalyptus-Forest\Assets\Shaders\Legacy\Vertex Color Shader.shader" />
     <None Include="Assets\Eucalyptus-Forest\Assets\Shaders\Legacy\Billboard.shader" />
     <None Include="Assets\Eucalyptus-Forest\Assets\Shaders\Legacy\Bark.shader" />
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Cinemachine">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.multiplayer-hlapi.Editor">
+      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
@@ -87,11 +93,20 @@
     <Reference Include="Unity.Recorder">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.multiplayer-weaver.Editor">
+      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
@@ -99,8 +114,14 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
@@ -119,27 +140,6 @@
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/jj423/OneDrive/문서/2021_1_CapstoneDesign_forest/VR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
@@ -683,6 +683,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="SteamVR_Actions.csproj">
+      <Project>{8E2DF2CE-36B5-996D-7046-DA3E9E04ADB7}</Project>
+      <Name>SteamVR_Actions</Name>
+    </ProjectReference>
     <ProjectReference Include="SteamVR_Input_Editor.csproj">
       <Project>{1F9852F3-1769-CF80-6E5A-D60979F43D4B}</Project>
       <Name>SteamVR_Input_Editor</Name>
