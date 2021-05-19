@@ -67,6 +67,8 @@
     <Compile Include="Assets\Eucalyptus-Forest\Assets\Scripts\MtreeHDRPLights.cs" />
     <Compile Include="Assets\Eucalyptus-Forest\Assets\Scripts\MtreeWind.cs" />
     <Compile Include="Assets\Eucalyptus-Forest\Assets\Shaders\Legacy\VSProIntegration.cs" />
+    <Compile Include="Assets\script\Mover.cs" />
+    <Compile Include="Assets\script\Rail.cs" />
     <None Include="Assets\Eucalyptus-Forest\Assets\Shaders\Legacy\VS_indirect.cginc" />
     <None Include="Assets\Eucalyptus-Forest\Assets\Shaders\Legacy\Leaves.shader" />
     <None Include="Assets\Eucalyptus-Forest\Assets\Shaders\Legacy\Vertex Color Shader.shader" />
