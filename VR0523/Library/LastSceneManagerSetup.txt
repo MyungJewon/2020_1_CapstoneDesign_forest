@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Eucalyptus-Forest/Demos/Cinematic-Scene/Cinematic-Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
